@@ -88,13 +88,13 @@ python main.py -dataset (gc11/gc19 or ali20) -lr (0.0001/0.001)
 
 ### Result on Alibaba 2020 dataset
 
-[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Alibaba2020.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Alibaba2020.png)
+[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Alibaba2020.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Alibaba2020.png)
 
 ### Result on Google 2011 dataset
 
-[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Google2011.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Google2011.png)
+[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Google2011.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Google2011.png)
 
 ### Result on Google 2019 dataset
 
-[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Google2019.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/Google2019.png)
+[![img](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Google2019.png)](https://github.com/HelloDVA/ConvNSNP-BiLSTM/blob/master/Google2019.png)
 
